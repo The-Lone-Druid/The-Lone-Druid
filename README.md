@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **reachtozahid@gmail.com**
 
-- 📄 Know about my experiences [https://nextlevel.app/user/zaheedshaikh](https://nextlevel.app/user/zaheedshaikh)
-
 - ⚡ Fun fact **The first website was just a plain page with text and hyperlinks, without any images or styling. Can you imagine a website without CSS today? 🤯**
 
 <h3 align="left">Connect with me:</h3>
