@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at [https://www.zahidshaikh.space](https://www.zahidshaikh.space)
 - 💬 Ask me about **React, Next.js, Angular, Typescript & CSS**
 - 📫 How to reach me **reachtozahid@gmail.com**
-- ⚡ Fun fact **The first website was just a plain page with text and hyperlinks, without any images or styling. Can you imagine a website without CSS today? 🤯**
+- ⚡ Fun fact **Do you know? A git pull a day keeps the conflicts away.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
