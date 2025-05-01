@@ -39,50 +39,60 @@
 
 <div align="center">
   <h3>🛠️ Tech Stack</h3>
-  <p>
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-      <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-      <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-    </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    </a>
-  </p>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <div style="display: flex; align-items: center; background: #1a1a1a; padding: 8px 16px; border-radius: 20px; margin: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="24" height="24" style="margin-right: 8px;"/>
+      <span style="color: #fff;">Angular</span>
+    </div>
+    <div style="display: flex; align-items: center; background: #1a1a1a; padding: 8px 16px; border-radius: 20px; margin: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="24" height="24" style="margin-right: 8px;"/>
+      <span style="color: #fff;">Figma</span>
+    </div>
+    <div style="display: flex; align-items: center; background: #1a1a1a; padding: 8px 16px; border-radius: 20px; margin: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="24" height="24" style="margin-right: 8px;"/>
+      <span style="color: #fff;">Firebase</span>
+    </div>
+    <div style="display: flex; align-items: center; background: #1a1a1a; padding: 8px 16px; border-radius: 20px; margin: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="24" height="24" style="margin-right: 8px;"/>
+      <span style="color: #fff;">Git</span>
+    </div>
+    <div style="display: flex; align-items: center; background: #1a1a1a; padding: 8px 16px; border-radius: 20px; margin: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="ionic" width="24" height="24" style="margin-right: 8px;"/>
+      <span style="color: #fff;">Ionic</span>
+    </div>
+    <div style="display: flex; align-items: center; background: #1a1a1a; padding: 8px 16px; border-radius: 20px; margin: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24" style="margin-right: 8px;"/>
+      <span style="color: #fff;">JavaScript</span>
+    </div>
+    <div style="display: flex; align-items: center; background: #1a1a1a; padding: 8px 16px; border-radius: 20px; margin: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="24" height="24" style="margin-right: 8px;"/>
+      <span style="color: #fff;">Jest</span>
+    </div>
+    <div style="display: flex; align-items: center; background: #1a1a1a; padding: 8px 16px; border-radius: 20px; margin: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="24" height="24" style="margin-right: 8px;"/>
+      <span style="color: #fff;">Next.js</span>
+    </div>
+    <div style="display: flex; align-items: center; background: #1a1a1a; padding: 8px 16px; border-radius: 20px; margin: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="24" height="24" style="margin-right: 8px;"/>
+      <span style="color: #fff;">React</span>
+    </div>
+    <div style="display: flex; align-items: center; background: #1a1a1a; padding: 8px 16px; border-radius: 20px; margin: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="24" height="24" style="margin-right: 8px;"/>
+      <span style="color: #fff;">Redux</span>
+    </div>
+    <div style="display: flex; align-items: center; background: #1a1a1a; padding: 8px 16px; border-radius: 20px; margin: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="24" height="24" style="margin-right: 8px;"/>
+      <span style="color: #fff;">Sass</span>
+    </div>
+    <div style="display: flex; align-items: center; background: #1a1a1a; padding: 8px 16px; border-radius: 20px; margin: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="24" height="24" style="margin-right: 8px;"/>
+      <span style="color: #fff;">Tailwind</span>
+    </div>
+    <div style="display: flex; align-items: center; background: #1a1a1a; padding: 8px 16px; border-radius: 20px; margin: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="24" height="24" style="margin-right: 8px;"/>
+      <span style="color: #fff;">TypeScript</span>
+    </div>
+  </div>
 </div>
 
 <div align="center">
