@@ -135,6 +135,24 @@
         </a>
         <br>React Native
       </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24" height="24" alt="nodejs" />
+        </a>
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="python" />
+        </a>
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://lit.dev/images/logo.svg" width="24" height="24" alt="lit" />
+        </a>
+        <br>Lit
+      </td>
     </tr>
   </table>
 </div>
