@@ -1,0 +1,22 @@
+The first computer "bug" was an actual moth stuck in a relay of the Harvard Mark II computer in 1947.
+The first computer programmer was Ada Lovelace, who wrote the first algorithm for Charles Babbage's Analytical Engine in the 1840s.
+The first computer mouse was made of wood and had only one button.
+The first computer virus was created in 1971 and was called "Creeper."
+The first website went live in 1991 and is still online today.
+The first computer game was created in 1958 and was called "Tennis for Two."
+The first computer keyboard was invented in 1964 and had 84 keys.
+The first computer monitor was invented in 1973 and was monochrome.
+The first computer hard drive was invented in 1956 and could store 5MB of data.
+The first computer mouse was invented in 1964 and was made of wood.
+The first computer virus was created in 1971 and was called "Creeper."
+The first computer game was created in 1958 and was called "Tennis for Two."
+The first computer keyboard was invented in 1964 and had 84 keys.
+The first computer monitor was invented in 1973 and was monochrome.
+The first computer hard drive was invented in 1956 and could store 5MB of data.
+The first computer mouse was invented in 1964 and was made of wood.
+The first computer virus was created in 1971 and was called "Creeper."
+The first computer game was created in 1958 and was called "Tennis for Two."
+The first computer keyboard was invented in 1964 and had 84 keys.
+The first computer monitor was invented in 1973 and was monochrome.
+The first computer hard drive was invented in 1956 and could store 5MB of data.
+The first computer mouse was invented in 1964 and was made of wood. 

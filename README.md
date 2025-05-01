@@ -6,6 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=the-lone-druid&label=Profile%20views&color=6366F1&style=for-the-badge" alt="the-lone-druid" />
 </div>
 
+
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=the-lone-druid&theme=onedark&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="the-lone-druid" />
@@ -159,18 +160,18 @@
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <table>
-    <tr>
-      <td width="50%">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=the-lone-druid&show_icons=true&theme=onedark&hide_border=true&hide_rank=true" alt="the-lone-druid" />
+  <table width="100%" style="border: none;">
+    <tr style="border: none;">
+      <td width="50%" align="center" style="background-color: #282c34; border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=the-lone-druid&show_icons=true&theme=onedark&hide_border=true&hide_rank=true&include_all_commits=true" alt="the-lone-druid" />
       </td>
-      <td width="50%">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-lone-druid&show_icons=true&theme=onedark&hide_border=true&layout=compact&hide=html,css" alt="the-lone-druid" />
+      <td width="50%" align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=the-lone-druid&show_icons=true&theme=onedark&hide_border=true&layout=compact&hide=html,css" alt="the-lone-druid" />
       </td>
     </tr>
-    <tr>
-      <td colspan="2">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-lone-druid&theme=onedark&hide_border=true" alt="the-lone-druid" />
+    <tr style="border: none;">
+      <td colspan="2" align="center" style="border: none;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-lone-druid&theme=onedark&hide_border=true" alt="the-lone-druid" />
       </td>
     </tr>
   </table>
@@ -178,5 +179,5 @@
 
 <div align="center">
   <h3>⚡ Fun Fact</h3>
-  <img src="https://github-readme-facts.vercel.app/api?username=the-lone-druid&theme=onedark" alt="Random Programming Fact" />
+  <p>Did you know? The first computer "bug" was an actual moth stuck in a relay of the Harvard Mark II computer in 1947.</p>
 </div>
