@@ -159,18 +159,24 @@
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=the-lone-druid&show_icons=true&theme=onedark&hide_border=true&hide_rank=true" alt="the-lone-druid" />
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-lone-druid&show_icons=true&theme=onedark&hide_border=true&layout=compact&hide=html,css" alt="the-lone-druid" />
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-lone-druid&theme=onedark&hide_border=true" alt="the-lone-druid" />
-  </p>
+  <table>
+    <tr>
+      <td width="50%">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=the-lone-druid&show_icons=true&theme=onedark&hide_border=true&hide_rank=true" alt="the-lone-druid" />
+      </td>
+      <td width="50%">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-lone-druid&show_icons=true&theme=onedark&hide_border=true&layout=compact&hide=html,css" alt="the-lone-druid" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-lone-druid&theme=onedark&hide_border=true" alt="the-lone-druid" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
   <h3>⚡ Fun Fact</h3>
-  <p>Do you know? A git pull a day keeps the conflicts away. 😄</p>
+  <img src="https://github-readme-facts.vercel.app/api?username=the-lone-druid&theme=onedark" alt="Random Programming Fact" />
 </div>
