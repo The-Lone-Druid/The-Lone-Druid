@@ -92,6 +92,14 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="24" height="24" style="margin-right: 8px;"/>
       <span style="color: #fff;">TypeScript</span>
     </div>
+    <div style="display: flex; align-items: center; background: #1a1a1a; padding: 8px 16px; border-radius: 20px; margin: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="electron" width="24" height="24" style="margin-right: 8px;"/>
+      <span style="color: #fff;">Electron</span>
+    </div>
+    <div style="display: flex; align-items: center; background: #1a1a1a; padding: 8px 16px; border-radius: 20px; margin: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactnative" width="24" height="24" style="margin-right: 8px;"/>
+      <span style="color: #fff;">React Native</span>
+    </div>
   </div>
 </div>
 
