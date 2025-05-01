@@ -102,13 +102,3 @@
   <h3>⚡ Fun Fact</h3>
   <p>Do you know? A git pull a day keeps the conflicts away. 😄</p>
 </div>
-
-<!-- Add a custom background and animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/The-Lone-Druid/The-Lone-Druid/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<!-- Add a custom background image -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/The-Lone-Druid/The-Lone-Druid/output/github-contribution-grid-snake-dark.svg" alt="Dark snake animation" />
-</div>
