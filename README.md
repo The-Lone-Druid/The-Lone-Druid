@@ -16,6 +16,34 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-lone-druid&theme=tokyonight&hide_border=true&stroke=6366F1&background=1a1b27&ring=bb9af7&fire=f7768e&currStreakLabel=bb9af7&sideLabels=bb9af7&dates=9aa5ce" alt="GitHub Streak"/>
 </div>
 
+<div align="center">
+  <h2>
+    <img src="https://user-images.githubusercontent.com/74038190/212281767-176cd007-beb4-42d5-b641-0a433dbf40e6.gif" width="30">
+    &nbsp;Table of Contents&nbsp;
+    <img src="https://user-images.githubusercontent.com/74038190/212281767-176cd007-beb4-42d5-b641-0a433dbf40e6.gif" width="30">
+  </h2>
+  
+  <div align="center">
+    <table>
+      <tr>
+        <td><a href="#about-me">About Me</a></td>
+        <td><a href="#connect-with-me">Connect With Me</a></td>
+        <td><a href="#ask-me-about">Ask Me About</a></td>
+      </tr>
+      <tr>
+        <td><a href="#tech-arsenal">Tech Arsenal</a></td>
+        <td><a href="#developer-roadmap">Developer Roadmap</a></td>
+        <td><a href="#github-analytics">GitHub Analytics</a></td>
+      </tr>
+      <tr>
+        <td><a href="#contribution-snake">Contribution Snake</a></td>
+        <td><a href="#random-dev-quote">Random Dev Quote</a></td>
+        <td><a href="#footer">Footer</a></td>
+      </tr>
+    </table>
+  </div>
+</div>
+
 <br/>
 
 <div align="center">
@@ -23,7 +51,7 @@
 </div>
 
 <div align="center">
-  <h2>
+  <h2 id="about-me">
     <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px"> 
     &nbsp;About Me&nbsp; 
     <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px">
@@ -62,7 +90,7 @@ const me = new Developer();
 </div>
 
 <div align="center">
-  <h2>
+  <h2 id="connect-with-me">
     <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
     &nbsp;Connect With Me&nbsp;
     <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
@@ -85,7 +113,7 @@ const me = new Developer();
 </div>
 
 <div align="center">
-  <h2>
+  <h2 id="ask-me-about">
     <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30">
     &nbsp;Ask Me About&nbsp;
     <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30">
@@ -105,7 +133,7 @@ const me = new Developer();
 </div>
 
 <div align="center">
-  <h2>
+  <h2 id="tech-arsenal">
     <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30">
     &nbsp;Tech Arsenal&nbsp;
     <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30">
@@ -161,7 +189,19 @@ const me = new Developer();
 </div>
 
 <div align="center">
-  <h2>
+  <h2 id="developer-roadmap">
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30">
+    &nbsp;Developer Roadmap&nbsp;
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30">
+  </h2>
+  
+  <div align="center">
+    <img src="https://roadmap.sh/card/wide/64875d8ee4bf41c65b045b9b?variant=dark" alt="Developer Roadmap" />
+  </div>
+</div>
+
+<div align="center">
+  <h2 id="github-analytics">
     <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30">
     &nbsp;GitHub Analytics&nbsp;
     <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30">
@@ -178,20 +218,20 @@ const me = new Developer();
 </div>
 
 <div align="center">
-  <h2>
+  <h2 id="contribution-snake">
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30">
     &nbsp;Contribution Snake&nbsp;
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30">
   </h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/the-lone-druid/the-lone-druid/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/the-lone-druid/the-lone-druid/output/snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/the-lone-druid/the-lone-druid/output/snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="dist/github-snake.svg" />
   </picture>
 </div>
 
 <div align="center">
-  <h2>
+  <h2 id="random-dev-quote">
     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
     &nbsp;Random Dev Quote&nbsp;
     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
@@ -205,7 +245,7 @@ const me = new Developer();
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=150&section=footer&animation=fadeIn" alt="Footer"/>
 </div>
 
-<div align="center">
+<div align="center" id="footer">
   <h3>
     <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30">
     "Code is like humor. When you have to explain it, it's bad."
