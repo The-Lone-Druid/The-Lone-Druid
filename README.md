@@ -13,6 +13,7 @@
 Senior Product Engineer with **5+ years** of experience delivering mission-critical, production-ready solutions across **10+ diverse industries**. Specialized in architecting and shipping scalable enterprise platforms that drive measurable business impact—from reducing operational costs by 40% to enabling 3x user engagement and generating new revenue streams.
 
 **Core Competencies:**
+
 - Full-stack product engineering with expertise in modern JavaScript/TypeScript ecosystems
 - Architecting offline-first, real-time applications for global enterprise clients
 - Leading technical delivery for maritime, logistics, finance, and EdTech sectors
@@ -24,6 +25,7 @@ Senior Product Engineer with **5+ years** of experience delivering mission-criti
 ## Technical Expertise
 
 ### Frontend Engineering
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
@@ -35,6 +37,7 @@ Senior Product Engineer with **5+ years** of experience delivering mission-criti
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ### Backend & Infrastructure
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
@@ -45,6 +48,7 @@ Senior Product Engineer with **5+ years** of experience delivering mission-criti
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
 ### DevOps & Quality Assurance
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
@@ -56,20 +60,12 @@ Senior Product Engineer with **5+ years** of experience delivering mission-criti
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
 
 ### Specialized Skills
+
 - **Offline-First Architecture**: Service workers, local storage, IndexedDB, SQLite
 - **Real-Time Systems**: WebSockets, live data synchronization, event-driven architecture
 - **Data Visualization**: Mapbox, AG Grid, HighCharts, Chart.js, Recharts
 - **Performance Optimization**: Caching strategies, code splitting, lazy loading, data structure optimization
 - **Enterprise Integration**: RESTful APIs, GraphQL, third-party service integration
-
----
-
-## GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=the-lone-druid&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-lone-druid&layout=compact&langs_count=8&theme=default&hide_border=true"/>
-</div>
 
 ---
 
