@@ -61,11 +61,9 @@ Senior Product Engineer with **5+ years** of experience delivering mission-criti
 
 ### Specialized Skills
 
-- **Offline-First Architecture**: Service workers, local storage, IndexedDB, SQLite
-- **Real-Time Systems**: WebSockets, live data synchronization, event-driven architecture
-- **Data Visualization**: Mapbox, AG Grid, HighCharts, Chart.js, Recharts
-- **Performance Optimization**: Caching strategies, code splitting, lazy loading, data structure optimization
-- **Enterprise Integration**: RESTful APIs, GraphQL, third-party service integration
+- **Building Cross Platform High Performance Applications**
+- **Hands-on Enterprise experience with building desktop applications using Electron.js**
+- **Extensive experience in implementing and maintaining CI/CD Pipelines for Web, Desktop & Mobile Applications**
 
 ---
 
